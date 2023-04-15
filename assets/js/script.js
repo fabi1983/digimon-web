@@ -1,0 +1,1 @@
+alert("bienvenido a digimon, preciona aceptar para continuar")

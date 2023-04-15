@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(0, 0, 0);
+}
+#texto_navbar{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color:azure;
+}
+.buscar{
+    color: azure;
+}
+.logo{
+    background-color: black;
+    color: beige;
+    width: 15%;
+   
+}
+.img_central{
+    width: 50%;
+}
+.final{
+    width: 10%;
+}
+.footer{
+    background-color:rgb(62, 63, 64);
+}
+.texto_footer{
+    text-align: center;
+    color:azure;
+}
+
