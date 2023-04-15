@@ -1,31 +1,43 @@
-body{
-    background-color:rgb(0, 0, 0);
-}
+
 #texto_navbar{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Sedgwick Ave Display', cursive;
     text-align: center;
     color:azure;
 }
 .buscar{
-    color: azure;
+    color:aqua;
+    
 }
 .logo{
     background-color: black;
-    color: beige;
-    width: 15%;
-   
+   border-radius: 40%;
 }
+
 .img_central{
+    margin-top: 10px;
+    margin-bottom: 10px;
     width: 50%;
 }
 .final{
     width: 10%;
 }
 .footer{
-    background-color:rgb(62, 63, 64);
+    width: 100%;
+    background-color:black;
 }
 .texto_footer{
     text-align: center;
     color:azure;
 }
+.digicard{
+    overflow:auto;
+    box-shadow: 5px 5px 5px  rgba(0,0,0,0.5); 
+    cursor: default;
+    transition: all 400ms ease;
+}
+.digicard:hover{
+    box-shadow: 10px 40px 10px rgba(0,0,0,80);
+    transform: translateY(-5%)  ;
+}
+
 
